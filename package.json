@@ -1,0 +1,15 @@
+{
+  "name": "yarn-dep-find",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "parse-yarn-lock": "0.28.4",
+    "semver": "^7.3.2",
+    "yargs": "^16.1.0"
+  },
+  "devDependencies": {
+    "@types/yargs": "^15.0.9"
+  }
+}
